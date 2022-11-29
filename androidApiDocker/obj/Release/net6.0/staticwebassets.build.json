@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "D6fxKpXGJ/X+H4VkzGKRB62BJFOhRi2TS/5vx+9T76o=",
+  "Source": "androidApiDocker",
+  "BasePath": "_content/androidApiDocker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
